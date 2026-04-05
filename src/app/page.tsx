@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-chopped-vegetable-salad-with-chicken-pineapple-plate-table_140725-11500.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-chopped-vegetable-salad-with-chicken-pineapple-plate-table_140725-11500.jpg?_wi=1"
     />
   </div>
 
@@ -93,14 +93,14 @@ export default function LandingPage() {
           name: "Farširuota žuvis",
           price: "Special",
           variant: "Šventinis",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-cooked-squashes-designed-meal-inside-plate-grey-space_140725-83769.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-cooked-squashes-designed-meal-inside-plate-grey-space_140725-83769.jpg?_wi=1",
         },
         {
           id: "2",
           name: "Jubiliejinis tortas",
           price: "Individual",
           variant: "Desertai",
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookies-with-cream-dogwoods-grey_140725-29962.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookies-with-cream-dogwoods-grey_140725-29962.jpg?_wi=1",
         },
         {
           id: "3",
@@ -121,14 +121,14 @@ export default function LandingPage() {
           name: "Gurmaniškas užkandžių rinkinys",
           price: "Pagal susitarimą",
           variant: "Užkandžiai",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-cooked-squashes-designed-meal-inside-plate-grey-space_140725-83769.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-cooked-squashes-designed-meal-inside-plate-grey-space_140725-83769.jpg?_wi=2",
         },
         {
           id: "6",
           name: "Šventinis vyno rinkinys",
           price: "Pagal susitarimą",
           variant: "Gėrimai",
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookies-with-cream-dogwoods-grey_140725-29962.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookies-with-cream-dogwoods-grey_140725-29962.jpg?_wi=2",
         },
       ]}
       title="Meniu akcentai"
@@ -205,7 +205,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-chopped-vegetable-salad-with-chicken-pineapple-plate-table_140725-11500.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-chopped-vegetable-salad-with-chicken-pineapple-plate-table_140725-11500.jpg?_wi=2"
       logoText="Vis-a-Vis"
       columns={[
         {
